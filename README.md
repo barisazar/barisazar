@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Baris</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
-- 🔭 I’m currently working on Wordest!
+
 - 📫 You can connect with me at **barisazar35434@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
